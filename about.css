@@ -1,0 +1,19 @@
+body {
+    font-family: "lexend";
+}
+
+.container {
+    text-align: center;
+    gap: 20px;
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+
+.child {
+    text-align: center;
+    width: 25%;
+    text-align: center;
+}
